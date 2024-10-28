@@ -1,0 +1,3 @@
+# Particles
+
+A demo using Geary to render "particles" in Minecraft, it showcases rendering to regular particles as well as display entities. There are separate systems for updating particle velocity and things like targeting players etc...
